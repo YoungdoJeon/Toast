@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         btnToast2.setOnClickListener {
             showCustom("안녕하신가요?")
+            //hello
         }
 
     }
